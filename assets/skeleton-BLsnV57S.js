@@ -1,0 +1,1 @@
+import{j as o,c as s}from"./iframe-DYg_Yz3e.js";function t({className:e,...n}){return o.jsx("div",{className:s("bg-muted animate-pulse rounded-md",e),...n})}t.__docgenInfo={description:"",methods:[],displayName:"Skeleton"};export{t as S};
